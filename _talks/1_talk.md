@@ -2,8 +2,8 @@
 layout: page
 title: project 3 with very long name
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/img_talk1.jpg
+redirect: https://zenodo.org/records/11181810
 importance: 3
 category: work
 ---
