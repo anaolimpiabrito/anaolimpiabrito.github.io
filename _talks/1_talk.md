@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: National Meeting of Astronomy and Astrophysics (ENAA)
+description: Porto, 17-18 July, 2014
 img: assets/img/img_talk1.jpg
 redirect: https://zenodo.org/records/11181810
 importance: 3
