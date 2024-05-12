@@ -1,11 +1,11 @@
 ---
 layout: page
-title: talks
-permalink: /talks/
+title: projects
+permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [invited, contributed]
+display_categories: [work, fun]
 horizontal: false
 ---
 
