@@ -1,7 +1,7 @@
 ---
 layout: page
 title: IDPASC Workshop on “Space Particles and Earth”
-description: Évora, 31 October, 20145
+description: Évora, 31 October, 2015
 img: assets/img/img_talk2.jpg
 redirect: https://zenodo.org/records/11185226
 importance: 3
