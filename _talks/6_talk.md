@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IAU Symposium 365: Dynamics of Solar and Stellar Convective Zones
+title: IAU Symposium 365 - Dynamics of Solar and Stellar Convective Zones
 description: Yerevan (Armenia), 21-25 August, 2023
 img: assets/img/img_talk6.jpg
 redirect: https://zenodo.org/records/11186539
