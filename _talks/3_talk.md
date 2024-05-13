@@ -2,7 +2,7 @@
 layout: page
 title: 26th National Meeting of Astronomy and Astrophysics (ENAA) 
 description: Lisbon (FCUL), 20-21 July, 2017
-img: assets/img/img_talk2.jpg
+img: assets/img/img_talk3.jpg
 redirect: https://zenodo.org/records/11186075
 importance: 3
 category: work
