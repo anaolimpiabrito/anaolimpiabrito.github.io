@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stars and their Variability, Observed from Space – Celebrating the 5th Anniversary of BRITE-Constellation
-description: Vienna (Asutria), 19-23 August, 2019
+description: Vienna (Austria), 19-23 August, 2019
 img: assets/img/img_talk4.jpg
 redirect: https://zenodo.org/records/11186411
 importance: 3
