@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Ana Olímpia Brito
     - name: Date of Birth
-      value: 14th March 1879
+      value: 31h March 1969
     - name: Languages
-      value: English, German
+      value: English, Russian, Spanish
 
 - title: Education
   type: time_table
