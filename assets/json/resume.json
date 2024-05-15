@@ -2,7 +2,7 @@
   "basics": {
     "name": "Ana Brito",
     "Position": "Assistant Professor",
-    "email ": "anabrito@isg.pt / ana.brito@tecnico.ulisboa.pt",
+    "email ": "anabrito@isg.pt | ana.brito@tecnico.ulisboa.pt",
     "ORCID ID": "0000-0002-7232-5037",
     "Ciência ID": "5918-BDE1-6D9B",
     "Scopus Author ID": "56017539600",
@@ -138,11 +138,11 @@
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "Visualize data with python",
+      "date": "2022",
+      "issuer": "Codecademy",
+      "url": "https://www.codecademy.com/profiles/ruby6166921732/certificates/5d24b4845808221825fadca1",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Analyze Data with Python",
