@@ -1,9 +1,8 @@
 {
   "basics": {
     "name": "Ana Brito",
-    "label": "Assistant Professor",
-    "email 1": "anabrito@isg.pt",
-    "email 2": "ana.brito@tecnico.ulisboa.pt",
+    "Position": "Assistant Professor",
+    "email ": "anabrito@isg.pt / ana.brito@tecnico.ulisboa.pt",
     "ORCID ID": "0000-0002-7232-5037",
     "Ciência ID": "5918-BDE1-6D9B",
     "Scopus Author ID": "56017539600",
