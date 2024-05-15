@@ -67,7 +67,7 @@
       "courses": ["Asteroseismology of F and G-type Stars: the contribution of the ionization of heavy elements for the stellar dynamics."]
     },
      {
-      "institution": "Faculty of Sciences - University of Lisbon, Department of Mathematics – Scientific Area of Mathematical Physics.Supervisor: Ana Bela Cruzeiro.",
+      "institution": "Faculty of Sciences - University of Lisbon, Department of Mathematics – Scientific Area of Mathematical Physics. Supervisor: Ana Bela Cruzeiro.",
       "location": "Lisbon, Portugal",
       "url": "https://www.uzh.ch/",
       "area": "Mathematical Physics",
@@ -146,10 +146,10 @@
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Analyze Data with Python",
+      "date": "2022",
+      "issuer": "Codecademy",
+      "url": "https://www.codecademy.com/profiles/ruby6166921732/certificates/5cacbe7b3709024753e7c3ff",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
