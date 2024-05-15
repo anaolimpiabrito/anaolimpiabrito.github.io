@@ -193,7 +193,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Portuguese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -201,7 +201,17 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
+    },
+    {
+      "language": "Russian",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent",
+      "icon": ""
+    },
   ],
   "interests": [
     {
