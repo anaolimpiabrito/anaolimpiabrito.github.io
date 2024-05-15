@@ -29,17 +29,17 @@
       "url": "https://example.com",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Rua Prof. Reinaldo dos Santos 46 A, 1500-552, Lisboa, Portugal",
+      "highlights": ["Mathematical Analysis"]
     },
     {
-      "name": "work2",
-      "position": "Professor of Theoretical Physics",
+      "name": "ISG - Business and Economics Schhol",
+      "position": "Professor of Mathematics",
       "url": "https://example.com",
       "startDate": "1995",
       "endDate": "Present   ",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Rua Prof. Reinaldo dos Santos 46 A, 1500-552, Lisboa, Portugal",
+      "highlights": ["Mathematical Analysis"]
     }
   ],
   "volunteer": [
