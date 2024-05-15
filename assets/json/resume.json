@@ -56,15 +56,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "Instituto Superior Técnico - University of Lisbon  Department of Physics – Scientific Area of Astrophysics. Supervisor: Ilídio Lopes.",
+      "location": "Lisbon, Portugal",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "Physics - Astrophysics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2011",
+      "endDate": "2018",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Dissertation topic: Asteroseismology of F and G-type Stars: the contribution of the ionizationof heavy elements for the stellar dynamics."]
     }
   ],
   "awards": [
