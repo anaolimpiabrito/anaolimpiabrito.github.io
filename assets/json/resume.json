@@ -76,6 +76,28 @@
       "endDate": "2004",
       "score": "10",
       "courses": ["The Skorohod Integral"]
+    },
+    {
+      "institution": "Moscow State University - Faculty of Physics, Department of Theoretical Physics – Scientific Area of Quantum Statistics. Supervisor: Dmitri Vladimirovich Galtsov.",
+      "location": "Moscow, Russia",
+      "url": "https://www.uzh.ch/",
+      "area": "Physics",
+      "studyType": "Msc. in Physics",
+      "startDate": "1989",
+      "endDate": "1995",
+      "score": "10",
+      "courses": ["Instantons in String Theory"]
+    },
+    {
+      "institution": "Moscow State University - Faculty of Physics, Department of Theoretical Physics – Scientific Area of Quantum Statistics. Supervisor: Dmitri Vladimirovich Galtsov.",
+      "location": "Moscow, Russia",
+      "url": "https://www.uzh.ch/",
+      "area": "Mathematical Physics",
+      "studyType": "Bsc. in Mathematics",
+      "startDate": "1989",
+      "endDate": "1995",
+      "score": "10",
+      "courses": [" Numerical solutions in Axion-Dilaton Gravity"]
     }
   ],
   "awards": [
