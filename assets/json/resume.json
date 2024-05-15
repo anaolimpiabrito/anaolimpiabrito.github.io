@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Work1",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Rua Prof. Reinaldo dos Santos 46 A, 1500-552, Lisboa, Portugal",
-      "highlights": ["Mathematical Analysis"]
+      "name": "CENTRA - center for astrophysics and gravitation",
+      "position": "Researcher",
+      "url": "https://centra.tecnico.ulisboa.pt/",
+      "startDate": "2018",
+      "endDate": "present",
+      "summary": "CENTRA, Departamento de Física, Instituto Superior Técnico, Universidade de Lisboa - UL, Av. Rovisco Pais 1, 1049-001 Lisboa, Portugal",
+      "highlights": ["Astrophysics"]
     },
     {
       "name": "ISG - Business and Economics Schhol",
