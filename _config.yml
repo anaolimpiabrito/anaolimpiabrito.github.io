@@ -106,7 +106,7 @@ wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-zotero_username: # anaobrito
+zotero_username: anaobrito # 
 
 contact_note: >
   I am best reached by email.
