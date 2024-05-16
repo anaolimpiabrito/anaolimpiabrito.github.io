@@ -5,7 +5,7 @@ title: teaching
 description: work in progress
 nav: true
 display_categories: [work, fun]
-nav order: 6
+nav_order: 6
 horizontal: false
 ---
 
