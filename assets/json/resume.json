@@ -110,32 +110,18 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Fundamental Math for Data Science",
+      "date": "2022",
+      "issuer": "Codecademy",
+      "url": "https://www.codecademy.com/profiles/ruby6166921732/certificates/60fae94455bc86001687f1d9",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Exploratory Data Analysis in Python",
+      "date": "2022",
+      "issuer": "Codecademy",
+      "url": "https://www.codecademy.com/profiles/ruby6166921732/certificates/33af3a7ba2bd8a4291d5188f2d436696",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Visualize data with python",
