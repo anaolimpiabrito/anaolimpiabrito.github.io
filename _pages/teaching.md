@@ -4,6 +4,7 @@ permalink: /teaching/
 title: teaching
 description: work in progress
 nav: true
+display_categories: [Present Courses, Previous Courses]
 nav_order: 6
 ---
 
