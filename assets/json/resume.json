@@ -188,9 +188,11 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "$\LaTeX$",
-        "",
-        "",
-        ""
+        "Programming languages: Python, Matlab",
+        "Operating systems: Linux, macOS",
+        "Data analysis and visualization: Jupyter notebooks,Pandas, NumPy, Seaborn",
+        "Virtual Collaboration tools: Slack, Zoom, Teams",
+        "Learning management systems: Moodle, Blackboard"
       ]
     }
   ],
