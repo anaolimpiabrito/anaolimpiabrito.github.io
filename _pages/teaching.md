@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: 
 description:
 nav: true
 display_categories: [work, fun]
