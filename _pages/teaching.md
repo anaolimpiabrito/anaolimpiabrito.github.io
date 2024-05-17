@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: work in progress
+description:
 nav: true
 display_categories: [work, fun]
 nav_order: 6
@@ -16,7 +16,7 @@ horizontal: false
 1. Antiderivatives and indefinite integrals
 2. Techniques of integration <br>
     2.1 Integration by substitution <br>
-    2.2 integration by parts <br>
+    2.2 Integration by parts <br>
 3. The Riemann Integral <br>
      3.1 Definition and Existence <br>
      3.2 Properties of the Integral <br>
@@ -38,3 +38,5 @@ horizontal: false
 7. Direccional derivatives and linear approximations
 8. Maxima/minima problems
 9. Lagrange multipliers
+
+<span style="font-size: 26px">Previous courses</span> 
