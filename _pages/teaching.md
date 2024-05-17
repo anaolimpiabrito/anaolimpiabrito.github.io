@@ -17,6 +17,10 @@ Present courses
 
   <strong>This text is important!</strong> 
 
+
+<h2>How to Change Font Size Within the Same Paragraph [Inline CSS]</h2>
+<p>This is dummy text. This is more dummy text. <span style="font-size: 26px">This is larger text.</span>  This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text.</p>
+
 Integral calculus
 
 1. Antiderivatives and indefinite integrals
