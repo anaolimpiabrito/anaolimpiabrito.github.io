@@ -14,14 +14,14 @@ horizontal: false
 <strong>Integral calculus</strong> 
 
 1. Antiderivatives and indefinite integrals
-2. Techniques of integration
-    2.1 Integration by substitution
-    2.2 integration by parts
-3. The Riemann Integral
-     3.1 Definition and Existence
-     3.2 Properties of the Integral
-     3.3 Fundamental Theorem of Calculus
-     3.4 Areas between curves
-     3.5 The mean value theorem for integrals
-     3.6 Improper Integrals
-     3.7 Applications to business and economics
+2. Techniques of integration <br>
+    2.1 Integration by substitution <br>
+    2.2 integration by parts <br>
+3. The Riemann Integral <br>
+     3.1 Definition and Existence <br>
+     3.2 Properties of the Integral <br>
+     3.3 Fundamental Theorem of Calculus <br>
+     3.4 Areas between curves <br>
+     3.5 The mean value theorem for integrals <br>
+     3.6 Improper Integrals <br>
+     3.7 Applications to business and economics <br>
