@@ -25,3 +25,16 @@ horizontal: false
      3.5 The mean value theorem for integrals <br>
      3.6 Improper Integrals <br>
      3.7 Applications to business and economics <br>
+
+
+<strong>Functions of several variables</strong> 
+
+1. Domains, ranges, graphing, level curves and contur maps
+2. Limits and continuity
+3. Partial derivatives
+4. Tangent planes and linear approximations
+5. The chain rule
+6. Implicit differentiation
+7. Direccional derivatives and linear approximations
+8. Maxima/minima problems
+9. Lagrange multipliers
