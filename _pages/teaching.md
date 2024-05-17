@@ -11,6 +11,12 @@ horizontal: false
 
 Present courses
 
+<p>My favorite color is <del>blue</del> <ins>red</ins>.</p>
+
+<b>This text is bold</b> 
+
+  <strong>This text is important!</strong> 
+
 Integral calculus
 
 1. Antiderivatives and indefinite integrals
