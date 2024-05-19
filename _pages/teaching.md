@@ -44,8 +44,8 @@ horizontal: false
 <strong>Linear Algebra</strong> 
 
 1. Systems of linear equations <br>
-    1.1 Augmented matrix
-    1.2 Gaussian elimination
+    1.1 Augmented matrix <br>
+    1.2 Gaussian elimination <br>
     1.3 Homogeneous Systems
 2. Matrices <br>
     2.1 Operations with matrices <br>
@@ -65,8 +65,40 @@ horizontal: false
 5. Linear transformations <br>
    5.1 Linear transformation and matrices for linear transformations <br>
    5.2 Kernel and range of a linear transformation <br>
-   5.3 Change of basis <br>
-6. Eigenvalues and eigenvectors
+   5.3 Change of basis 
+6. Eigenvalues and eigenvectors <br>
    6.1 Definition <br>
    6.2 Diagonalization <br>
    6.3 Symmetric matrices and orthogonal diagonalization <br>
+
+
+<strong>Multiple integration</strong> 
+
+1. Double integrals over rectangular regions <br>
+2. Double integrals over general regions <br>
+2. Double integrals in polar coordinates <br>
+3. Triple integrals <br>
+4. Change of variables <br>
+
+<strong>Introduction to differential equations</strong> 
+
+1. Basics of differential equations <br>
+   1.1 Separable equations <br>
+   1.2 The logistic equation <br>
+   1.3 First-order linear equations
+2. Second-order differential equations <br>
+   2.1 Second-order linear equations <br>
+   2.2 Nonhomogeneous linear equations <br>
+
+<strong>Sequences and series</strong> 
+
+1. Sequences <br>
+2. Infinite series <br>
+3. The divergence and integral tests <br>
+4. Comparison tests <br>
+5. Alternating series <br>
+6. Ratio and root tests <br>
+7. Power series <br>
+   7.1 Power series and functions <br>
+   7.2 Properties of power series <br>
+   7.3 Taylor and Maclaurin series <br>
