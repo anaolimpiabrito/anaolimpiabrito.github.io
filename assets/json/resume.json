@@ -252,17 +252,12 @@
     },
     {
       "language": "Russian",
-      "fluency": "Fluent (fluent but not perfect)",
+      "fluency": "Fluent (but not perfect)",
       "icon": ""
     },
     {
       "language": "Spanish",
       "fluency": "Fluent (but not perfect)",
-      "icon": ""
-    },
-    {
-      "language": "French",
-      "fluency": "Basic knowledge",
       "icon": ""
     }
   ],
