@@ -4,7 +4,6 @@ permalink: /teaching/
 title: 
 description:
 nav: true
-display_categories: [work, fun]
 nav_order: 6
 horizontal: false
 ---
