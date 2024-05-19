@@ -17,12 +17,12 @@ horizontal: false
     2.1 Integration by substitution <br>
     2.2 Integration by parts <br>
 3. The Riemann Integral <br>
-     3.1 Definition and Existence <br>
-     3.2 Properties of the Integral <br>
-     3.3 Fundamental Theorem of Calculus <br>
+     3.1 Definition and existence <br>
+     3.2 Properties of the integral <br>
+     3.3 The fundamental theorem of calculus <br>
      3.4 Areas between curves <br>
      3.5 The mean value theorem for integrals <br>
-     3.6 Improper Integrals <br>
+     3.6 Improper integrals <br>
      3.7 Applications to business and economics <br>
 
 
@@ -45,7 +45,7 @@ horizontal: false
 1. Systems of linear equations <br>
     1.1 Augmented matrix <br>
     1.2 Gaussian elimination <br>
-    1.3 Homogeneous Systems
+    1.3 Homogeneous systems
 2. Matrices <br>
     2.1 Operations with matrices <br>
     2.2 Row operations <br>
