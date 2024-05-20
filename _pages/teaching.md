@@ -101,3 +101,33 @@ horizontal: false
    7.1 Power series and functions <br>
    7.2 Properties of power series <br>
    7.3 Taylor and Maclaurin series <br>
+
+<strong>Descriptive statistics and probability theory</strong> 
+
+1. Introduction to statistics  <br>
+   1.1 Primary and secondary data  <br>
+   1.2 Methods of collection and editing of data  <br>
+2. Measures of central tendency  <br>
+   2.1 Mean <br>
+   2.2 Median <br>
+   2.3 Mode <br>
+   2.4 Geometric mean <br>
+   2.5 Harmonic mean <br>  
+3. Measures of dispersion <br>
+   3.1 Range <br>
+   3.2 Quartile deviation, mean deviation and standard deviation <br>
+   3.3 Central and non-central moments <br>
+   3.4 Sheppard's correction <br>
+   3.5 Skewness and kurtosis <br>
+4. Introduction to probabilities <br>
+   4.1 Basic concepts:  random experiments, trial, outcome, sample space, event <br>
+   4.2 Mutually exclusive and exhaustive events <br>
+   4.3 Equally likely and favourable outcomes <br>
+   4.4 Definitions of probability <br>
+   4.5 Baye's theorem: conditional probability and independence of events <br>
+5. Random variables  <br>
+   5.1 Definition: discrete and continuous random variables, functions of random variables  <br>
+   5.2 Probability mass function, probability density function, distribution function and its
+properties  <br>
+   5.3 Bivariate random variable  <br>
+   
