@@ -19,6 +19,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KED29LVHBG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KED29LVHBG');
+</script>
+
+
 I am an Assistant Professor of Mathematics at the ISG Business and Economics School in Lisbon. I completed my undergraduate studies and my first master's degree in Mathematical Physics at Moscow State University. Subsequently, I earned another master's degree in Mathematics from the University of Lisbon. 
 
 Currently, I am affiliated as a researcher with CENTRA (Center of Astrophysics and Gravitation), a research unit of the University of Lisbon, where I also received my PhD. My research interests are primarily focused on stellar structure and evolution. Specifically, I am interested in exploring how the thermodynamics of stellar interiors can influence the observed properties of low-mass stars, utilizing asteroseismology as a tool to probe these interiors.
